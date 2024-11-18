@@ -1,7 +1,7 @@
 preis_erwachsene = 5.0
 preis_kinder = 2.5
 preis_premium = 3.0
-preis_basis = 4.0
+preis_basis = 4.00
 preis_jugendliche = 3.5
 u_continue = True
 
