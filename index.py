@@ -25,3 +25,5 @@ if antwort_rabatt == "P":
     else:
         print('### Eintritt Erwachsene (voller Preis) ###')
         print('Preis: ', preis_erwachsene,' Euro ')
+print('Drücken sie eine beliebige Taste um das Programm zu beenden!')
+input()
